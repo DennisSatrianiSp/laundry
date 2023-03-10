@@ -1,0 +1,68 @@
+.gambar-putih {
+    position: absolute;
+    width: 150px;
+    top: -10px;
+    left: 100px;
+}
+.kanan {
+    height: 100vh;
+    background-color: #205295;
+}
+.kanan1 {
+    height: 220vh;
+    background-color: #205295;
+    margin-left: 335px;
+}
+.kiri {
+    height: 100vh;
+    background-color: #0A2647;
+}
+.garis-putih {
+    margin-top: 125px;
+    border-bottom: solid white 1px;
+}
+.link {
+    list-style: none;
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+    border-bottom: solid white 1px;
+}
+.route {
+    text-decoration: none;
+    color: white;
+}
+.route:hover{
+    color: aqua;
+}
+.garis-putih1 {
+    margin-top: 120px;
+    border-bottom: solid white 1px;
+}
+.profile {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.judul-text {
+    margin-top: 30px;
+    color: white;
+    margin-left: 10px;
+}
+.garis{
+    color: white;
+}
+.kartu {
+    height: 150px;
+    padding: 10px;
+}
+.form {
+    margin-left: 30px;
+}
+.total {
+    margin-top: 80px;
+}
+.paket1{
+    width: 100px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}

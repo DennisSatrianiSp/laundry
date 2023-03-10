@@ -1,0 +1,81 @@
+.bg-gradient {
+    height: 100vh;
+}
+
+.bg-primary {
+    background-color: #6CE4FE !important;
+    height: 100vh;
+}
+
+.bg-secondary {
+    background-color: #0C71AA !important;
+    height: 100vh;
+}
+.posisi {
+    position: absolute;
+    width: 1222px;
+    height: 600px;
+    margin-top: 30px;
+    padding: 0px;
+    border-radius: 30px;
+    left: 72px;
+    
+}
+.bg-primary1 {
+    background-color: white !important;
+    width: 1222px;
+    height: 600px;
+    border-radius: 30px 0px 0px 30px;
+}
+
+.bg-secondary2 {
+    background-color: #C8F5FF !important;
+    width: 1222px;
+    height: 600px;
+    border-radius: 0px 30px 30px 0px;
+}
+.gambar1 {
+    width: 250px;
+    margin-left: 200px;
+}
+.judul{
+    position: absolute;
+    top: 150px;
+    left: 190px;
+    color: #1790AB ;
+    font-weight: bold;
+}
+.form {
+    margin-top: -50px;
+    margin-left: 100px;
+}
+.tombol {
+    background-color: #02005A;
+    color: white;
+    width: 320px;
+    margin-left: 30px;
+}
+.gambar2 {
+    position: absolute;
+    width: 350px;
+    top: -100px;
+    right: 115px;
+}
+.gambar3 {
+    position: absolute;
+    width: 300px;
+    top: 30px;
+    right: 145px;
+}
+.gambar4 {
+    position: absolute;
+    width: 300px;
+    top: 300px;
+    right: 5px;
+}
+.gambar5 {
+    position: absolute;
+    width: 350px;
+    top: 250px;
+    right: 285px;
+}
